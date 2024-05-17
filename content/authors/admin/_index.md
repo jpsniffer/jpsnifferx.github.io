@@ -52,19 +52,19 @@ skills:
   - name: Technical
     items:
       - name: Linux
-        description: '🐧'
+        description: ''
         percent: 80
         icon: linux
         icon_pack: fab
-      - name: Data Science
+      - name: Terraform
         description: ''
         percent: 100
-        icon: chart-line
+        icon: earth
         icon_pack: fas
-      - name: SQL
+      - name: AWS
         description: ''
-        percent: 40
-        icon: database
+        percent: 70
+        icon: aws
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -75,10 +75,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: DIY
         description: ''
         percent: 100
-        icon: cat
+        icon: computer
         icon_pack: fas
       - name: Photography
         description: ''
@@ -94,10 +94,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: xmark
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://x.com/jpsnifferx
+    label: Follow me on X
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
