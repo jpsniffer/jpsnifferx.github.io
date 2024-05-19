@@ -64,26 +64,26 @@ skills:
       - name: AWS
         description: ''
         percent: 70
-        icon: aws
+        icon: fa-aws
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: biking
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: person-biking
         icon_pack: fas
       - name: DIY
         description: ''
         percent: 100
         icon: computer
         icon_pack: fas
-      - name: Photography
+      - name: IOT
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: raspberry-pi
         icon_pack: fas
 
 # Social/Academic Networking
@@ -102,10 +102,10 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jpsniffer
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
